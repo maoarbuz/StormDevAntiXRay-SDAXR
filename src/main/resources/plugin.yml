@@ -1,0 +1,20 @@
+name: SDAXR
+version: 1.0.0
+main: mao.sdaxr.Sdaxr
+api-version: 1.17
+
+commands:
+  sdaxr:
+    description: AntiXRay information command
+    usage: /sdaxr [info|reload]
+
+permissions:
+  sdaxr.messages:
+    description: Receive XRay suspicion notifications
+    default: op
+  sdaxr.info:
+    description: View XRay information GUI
+    default: op
+  sdaxr.admin:
+    description: Admin permissions for AntiXRay
+    default: op

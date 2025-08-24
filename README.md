@@ -31,7 +31,7 @@
 - `sdaxr.admin` - access to the reload command
 - `sdaxr.messages` - receive notifications about suspicions
 
-# Screemshots
+# Screenshots
 
 <img width="845" height="442" alt="image" src="https://github.com/user-attachments/assets/181e4ed1-cbe3-4cac-a1ee-c1871feacb99" />
 <img width="652" height="1017" alt="image" src="https://github.com/user-attachments/assets/68b6d8a5-397a-45a4-8116-cdf17654b93f" />
